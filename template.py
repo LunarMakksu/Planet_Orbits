@@ -129,3 +129,14 @@ def main():
 
 
 main()
+
+
+WHITE = (255, 255, 255)
+YELLOW = (255, 255, 0)
+BLUE = (100, 149, 237)
+LIGHT_BLUE = (173, 216, 230)
+DARK_BLUE = (5, 0, 159)
+RED = (188, 39, 50)
+DARK_GREY = (80, 78, 81)
+ORANGE = (255,165,0)
+BLACK = (0, 0 , 0)
